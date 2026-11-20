@@ -25,13 +25,17 @@ A modern and responsive landing page built using HTML5, CSS3, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Moataz007/Landing-Page
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
+
+## 🎯 Project Goal
+
+The goal of this project was to build a modern, responsive landing page while improving my front-end development skills. It focuses on creating a clean user interface, providing a smooth user experience, and ensuring compatibility across different screen sizes.
 
 ## 👨‍💻 Author
 
 Moataz Mohamed
 
-[GitHub](YOUR_GITHUB_PROFILE_URL)
+[GitHub](https://github.com/Moataz007)
