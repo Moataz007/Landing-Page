@@ -592,7 +592,7 @@ button:focus-visible{
   }
   @media (min-width:768px) {
   margin-bottom: 80px;
-  flex-direction: column;
+  /* flex-direction: column; */
   align-items: center;
   justify-content: center;
   width: fit-content;
@@ -647,7 +647,7 @@ button:focus-visible{
     margin-left: 70px;
   }
   @media (min-width:768px) {
-    width: 50px;
+    width: 600px;
     display: flex !important;
     align-items: center;
     justify-content: center;
